@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    margin: 0 auto;
+}
+
+.grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 2fr 3fr 1fr;
+    width: 80%;
+}
+
+.caja {
+    border: 2px solid black;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
+
+.caja1 {
+    background-color: rgb(117, 25, 51);
+
+}
+
+.caja2 {
+    background-color: rgb(117, 25, 51);
+
+}
+
+.caja3 {
+    background-color: rgb(117, 25, 51);
+}
+
+.caja4 {
+    background-color: rgb(117, 25, 51);
+
+}
+
+.caja5 {
+    background-color: rgb(117, 25, 51);
+
+}
